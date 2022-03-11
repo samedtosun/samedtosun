@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @samedtosun
-- 👀 I’m interested in software development (mobile or web)
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Samed Tosun
+- 👀 I’m interested in technology, software development (mobile and web)
+- 🌱 I’m currently improving project management skills for software development
+- 💞️ I’m collaborating on a startup who has mobile app and webapp
+- 📫 How to reach me abdussamedtosun@gmail.com
 
 <!---
 samedtosun/samedtosun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
